@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+C:\web1900_KYB\1.java\.metadata\.plugins\org.eclipse.jdt.core
+1071577871.index
+1174553515.index
+3630618120.index
+1097828274.index
+3742044689.index
+3413725848.index
+1222232985.index
+822440765.index
+2942428830.index
+1676974170.index
+1865797976.index

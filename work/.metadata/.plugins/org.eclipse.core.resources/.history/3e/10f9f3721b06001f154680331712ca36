@@ -1,0 +1,12 @@
+package JButton;
+
+import javax.swing.JFrame;
+
+public class Ex2_JButton {
+	public static void main(String[] args) {
+		JFrame f = new JFrame("ActionEvent 처리");
+		f.setLayout(new FlowLayout());
+		
+		
+	}
+}
