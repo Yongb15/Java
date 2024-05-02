@@ -1,7 +1,0 @@
-package JButton;
-
-public class Ex2_JButton {
-	public static void main(String[] args) {
-		JFrame f = new JFrame("");
-	}
-}
